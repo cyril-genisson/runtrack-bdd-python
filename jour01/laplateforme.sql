@@ -39,7 +39,7 @@ CREATE TABLE `etudiant` (
 LOCK TABLES `etudiant` WRITE;
 /*!40000 ALTER TABLE `etudiant` DISABLE KEYS */;
 INSERT INTO `etudiant` VALUES
-(1,'Spaghetty','Betty',23,'betty.Spaghetti@laplateforme.io'),
+(1,'Spaghetti','Betty',23,'betty.Spaghetti@laplateforme.io'),
 (2,'Steack','Chuck',45,'chuck.steack@laplateforme.io'),
 (3,'Doe','John',18,'john.doe@laplateforme.io'),
 (4,'Barnes','Binkie',16,'binkie.barnes@laplateforme.io'),
